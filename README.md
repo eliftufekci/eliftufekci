@@ -28,45 +28,35 @@ My engineering journey is driven by practical application and software integrati
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="https://techicons.dev/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
       <br />C++
     </td>
     <td align="center" width="96">
-      <img src="https://techicons.dev/icons/python/python-original.svg" width="48" height="48" alt="Python" />
       <br />Python
     </td>
     <td align="center" width="96">
-      <img src="https://techicons.dev/icons/java/java-original.svg" width="48" height="48" alt="Java" />
       <br />Java
     </td>
     <td align="center" width="96">
-      <img src="https://user-images.githubusercontent.com/4610455/192131102-bf02a46f-c603-45f8-b39b-e85fe56fa763.png" width="48" height="48" alt="ROS2" />
       <br />ROS2
     </td>
     <td align="center" width="96">
-      <img src="https://techicons.dev/icons/opencv/opencv-original.svg" width="48" height="48" alt="OpenCV" />
       <br />OpenCV
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://techicons.dev/icons/spring/spring-original.svg" width="48" height="48" alt="Spring Boot" />
       <br />Spring Boot
     </td>
     <td align="center" width="96">
-      <img src="https://techicons.dev/icons/fastapi/fastapi-original.svg" width="48" height="48" alt="FastAPI" />
       <br />FastAPI
     </td>
     <td align="center" width="96">
-      <img src="https://techicons.dev/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
       <br />Linux
     </td>
     <td align="center" width="96">
-      <img src="https://techicons.dev/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
       <br />Docker
     </td>
     <td align="center" width="96">
-      <img src="https://techicons.dev/icons/git/git-original.svg" width="48" height="48" alt="Git" />
       <br />Git
     </td>
   </tr>
