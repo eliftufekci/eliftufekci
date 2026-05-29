@@ -85,3 +85,4 @@ My engineering journey is driven by practical application and software integrati
 ## 📫 Connect with Me
 - 💼 **LinkedIn:** https://www.linkedin.com/in/elif-tüfekci-b70665244?utm_source=share_via&utm_content=profile&utm_medium=member_android
 - 📧 **Email:** wwweliftufekci@gmail.com
+
