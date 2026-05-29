@@ -74,14 +74,6 @@ My engineering journey is driven by practical application and software integrati
 
 ---
 
-## 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=eliftufekci&show_icons=true&theme=tokyonight&include_all_commits=true" alt="Elif's GitHub Stats" height="180" />
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=eliftufekci&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
-</p>
-
----
-
 ## 📫 Connect with Me
 - 💼 **LinkedIn:** https://www.linkedin.com/in/elif-tüfekci-b70665244?utm_source=share_via&utm_content=profile&utm_medium=member_android
 - 📧 **Email:** wwweliftufekci@gmail.com
